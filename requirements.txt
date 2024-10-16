@@ -9,4 +9,4 @@ langchain-text-splitters
 bs4
 streamlit-chromadb-connection
 pysqlite3-binary>=0.5.2
-
+sqlite3 >= 3.35.0
