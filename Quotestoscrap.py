@@ -1,3 +1,4 @@
+import sqlite3
 from langchain_openai import ChatOpenAI,OpenAIEmbeddings
 from langchain.chains import ConversationalRetrievalChain,ConversationChain
 from langchain_community.document_loaders import WebBaseLoader
