@@ -13,3 +13,4 @@ seaborn==0.13.2
 plotly==5.18.0
 langchain-text-splitters
 bs4
+streamlit-chromadb-connection
