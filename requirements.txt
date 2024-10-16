@@ -12,3 +12,4 @@ requests==2.31.0
 seaborn==0.13.2
 plotly==5.18.0
 langchain-text-splitters
+bs4
