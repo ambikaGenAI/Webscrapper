@@ -14,5 +14,5 @@ plotly==5.18.0
 langchain-text-splitters
 bs4
 streamlit-chromadb-connection
-pysqlite3
+pysqlite3-binary
 sqlite3
