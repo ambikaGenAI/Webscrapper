@@ -1,0 +1,8 @@
+langchain_openai
+langchain.chains
+langchain_community
+langchain_text_splitters
+langchain.memory
+langchain_core
+streamlit
+streamlit_chat
